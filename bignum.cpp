@@ -3,6 +3,7 @@
 #include <algorithm>
 #include <string>
 
+// https://austinhenley.com/blog/bignum1.html
 class BigNum {
 public:
 	BigNum() = default;
